@@ -9,6 +9,8 @@ sites:
     url: https://forum.utcssa.net
   - name: Wiki
     url: https://wiki.utcssa.net
+  - name: Password (Internal)
+    url: $PASSWORD_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,12 +20,18 @@ status-website:
   logoUrl: https://wiki.utcssa.net/images/cssa-logo.png
   name: UTCSSA Status
   introTitle: "Monitor the status of web services provided by UTCSSA"
-  introMessage: Presented by Department of Technologies, The University of Texas at Austin - Chinese Students and Scholars Association.
+  introMessage: Presented by the Department of Technologies, The University of Texas at Austin - Chinese Students and Scholars Association.
   navbar:
+    - title: UTCSSA
+      href: https://utcssa.net
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+assignees:
+  - utcssa-tech
+  - alexkuang0
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

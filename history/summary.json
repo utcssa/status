@@ -6,7 +6,7 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1382,
     "timeMonth": 1381,
     "timeYear": 1449,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-24": 0
+    }
   },
   {
     "name": "论坛",
@@ -24,7 +26,7 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,42 +35,48 @@
     "timeWeek": 1382,
     "timeMonth": 1381,
     "timeYear": 1449,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-24": 0
+    }
   },
   {
     "name": "Wiki",
     "url": "https://wiki.utcssa.net",
     "icon": "https://favicons.githubusercontent.com/wiki.utcssa.net",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 389,
-    "timeDay": 440,
-    "timeWeek": 361,
-    "timeMonth": 380,
-    "timeYear": 389,
-    "dailyMinutesDown": {}
+    "time": 388,
+    "timeDay": 368,
+    "timeWeek": 352,
+    "timeMonth": 377,
+    "timeYear": 388,
+    "dailyMinutesDown": {
+      "2021-10-24": 0
+    }
   },
   {
     "name": "Password (Internal)",
     "url": "$PASSWORD_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "password-internal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 190,
-    "timeDay": 176,
-    "timeWeek": 168,
-    "timeMonth": 203,
-    "timeYear": 190,
-    "dailyMinutesDown": {}
+    "time": 193,
+    "timeDay": 242,
+    "timeWeek": 186,
+    "timeMonth": 206,
+    "timeYear": 193,
+    "dailyMinutesDown": {
+      "2021-10-24": 0
+    }
   }
 ]

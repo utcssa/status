@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.utcssa.net",
     "slug": "",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.86%",
+    "uptimeDay": "92.74%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.86%",
     "time": 1449,
     "timeDay": 1255,
     "timeWeek": 1382,
     "timeMonth": 1381,
     "timeYear": 1449,
     "dailyMinutesDown": {
-      "2021-10-24": 42
+      "2021-10-24": 104
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/forum.utcssa.net",
     "slug": "",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.86%",
+    "uptimeDay": "92.74%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.86%",
     "time": 1449,
     "timeDay": 1255,
     "timeWeek": 1382,
     "timeMonth": 1381,
     "timeYear": 1449,
     "dailyMinutesDown": {
-      "2021-10-24": 42
+      "2021-10-24": 104
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "$PASSWORD_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "password-internal",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
-    "time": 193,
-    "timeDay": 242,
-    "timeWeek": 186,
-    "timeMonth": 206,
-    "timeYear": 193,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "94.21%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.89%",
+    "time": 191,
+    "timeDay": 204,
+    "timeWeek": 180,
+    "timeMonth": 204,
+    "timeYear": 191,
     "dailyMinutesDown": {
-      "2021-10-24": 21
+      "2021-10-24": 83
     }
   }
 ]

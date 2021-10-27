@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.utcssa.net",
     "slug": "",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.96%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "99.86%",
-    "time": 1439,
-    "timeDay": 1252,
-    "timeWeek": 1312,
-    "timeMonth": 1379,
-    "timeYear": 1439,
+    "uptimeYear": "99.87%",
+    "time": 1433,
+    "timeDay": 1096,
+    "timeWeek": 1278,
+    "timeMonth": 1365,
+    "timeYear": 1433,
     "dailyMinutesDown": {
       "2021-10-24": 104
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/forum.utcssa.net",
     "slug": "",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.96%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "99.86%",
-    "time": 1439,
-    "timeDay": 1252,
-    "timeWeek": 1312,
-    "timeMonth": 1379,
-    "timeYear": 1439,
+    "uptimeYear": "99.87%",
+    "time": 1433,
+    "timeDay": 1096,
+    "timeWeek": 1278,
+    "timeMonth": 1365,
+    "timeYear": 1433,
     "dailyMinutesDown": {
       "2021-10-24": 104
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 385,
-    "timeDay": 289,
-    "timeWeek": 343,
-    "timeMonth": 377,
-    "timeYear": 385,
+    "time": 383,
+    "timeDay": 258,
+    "timeWeek": 320,
+    "timeMonth": 369,
+    "timeYear": 383,
     "dailyMinutesDown": {
       "2021-10-24": 21
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.89%",
-    "time": 188,
-    "timeDay": 91,
-    "timeWeek": 159,
-    "timeMonth": 204,
-    "timeYear": 188,
+    "time": 186,
+    "timeDay": 88,
+    "timeWeek": 135,
+    "timeMonth": 198,
+    "timeYear": 186,
     "dailyMinutesDown": {
       "2021-10-24": 83
     }

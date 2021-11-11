@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.89%",
-    "time": 1402,
-    "timeDay": 1335,
-    "timeWeek": 1272,
-    "timeMonth": 1308,
-    "timeYear": 1402,
+    "time": 1399,
+    "timeDay": 1169,
+    "timeWeek": 1220,
+    "timeMonth": 1299,
+    "timeYear": 1399,
     "dailyMinutesDown": {
       "2021-10-24": 104
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.89%",
-    "time": 1402,
-    "timeDay": 1335,
-    "timeWeek": 1272,
-    "timeMonth": 1308,
-    "timeYear": 1402,
+    "time": 1399,
+    "timeDay": 1169,
+    "timeWeek": 1220,
+    "timeMonth": 1299,
+    "timeYear": 1399,
     "dailyMinutesDown": {
       "2021-10-24": 104
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 378,
-    "timeDay": 537,
-    "timeWeek": 365,
-    "timeMonth": 356,
-    "timeYear": 378,
+    "time": 377,
+    "timeDay": 327,
+    "timeWeek": 325,
+    "timeMonth": 357,
+    "timeYear": 377,
     "dailyMinutesDown": {
       "2021-10-24": 21
     }
@@ -65,16 +65,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "password-internal",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "99.91%",
-    "time": 186,
-    "timeDay": 302,
-    "timeWeek": 144,
-    "timeMonth": 185,
-    "timeYear": 186,
+    "uptimeYear": "99.92%",
+    "time": 184,
+    "timeDay": 85,
+    "timeWeek": 119,
+    "timeMonth": 184,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2021-10-24": 83
     }

@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1411,
-    "timeDay": 1273,
-    "timeWeek": 1348,
-    "timeMonth": 1428,
-    "timeYear": 1411,
+    "time": 1410,
+    "timeDay": 1288,
+    "timeWeek": 1329,
+    "timeMonth": 1427,
+    "timeYear": 1410,
     "dailyMinutesDown": {
       "2021-10-24": 104
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1411,
-    "timeDay": 1273,
-    "timeWeek": 1348,
-    "timeMonth": 1428,
-    "timeYear": 1411,
+    "time": 1410,
+    "timeDay": 1288,
+    "timeWeek": 1329,
+    "timeMonth": 1427,
+    "timeYear": 1410,
     "dailyMinutesDown": {
       "2021-10-24": 104
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/wiki.utcssa.net",
     "slug": "wiki",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 362,
-    "timeDay": 174,
-    "timeWeek": 299,
-    "timeMonth": 329,
-    "timeYear": 362,
+    "uptimeYear": "99.99%",
+    "time": 361,
+    "timeDay": 272,
+    "timeWeek": 298,
+    "timeMonth": 321,
+    "timeYear": 361,
     "dailyMinutesDown": {
       "2021-10-24": 21
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 182,
-    "timeDay": 89,
-    "timeWeek": 143,
-    "timeMonth": 177,
-    "timeYear": 182,
+    "time": 181,
+    "timeDay": 117,
+    "timeWeek": 149,
+    "timeMonth": 171,
+    "timeYear": 181,
     "dailyMinutesDown": {
       "2021-10-24": 83
     }

@@ -16,6 +16,7 @@
     "timeMonth": 4647,
     "timeYear": 1968,
     "dailyMinutesDown": {
+      "2022-03-12": 0,
       "2021-10-24": 104
     }
   },
@@ -26,7 +27,7 @@
     "slug": "",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -36,6 +37,7 @@
     "timeMonth": 4647,
     "timeYear": 1968,
     "dailyMinutesDown": {
+      "2022-03-12": 0,
       "2021-10-24": 104
     }
   },
@@ -64,9 +66,9 @@
     "url": "$PASSWORD_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "password-internal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -76,6 +78,7 @@
     "timeMonth": 134,
     "timeYear": 173,
     "dailyMinutesDown": {
+      "2022-03-12": 0,
       "2021-10-24": 83
     }
   }
